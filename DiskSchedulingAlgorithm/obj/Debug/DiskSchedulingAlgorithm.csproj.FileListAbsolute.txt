@@ -1,0 +1,14 @@
+c:\users\gabriel\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\DiskSchedulingAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\DiskSchedulingAlgorithms.MainForm.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\DiskSchedulingAlgorithm.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\bin\Debug\DiskSchedulingAlgorithm.exe.config
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\DiskSchedulingAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\DiskSchedulingAlgorithm.csproj.GenerateResource.Cache
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\bin\Debug\DiskSchedulingAlgorithm.exe
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\bin\Debug\DiskSchedulingAlgorithm.pdb
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\DiskSchedulingAlgorithm.MainForm.resources
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\DiskSchedulingAlgorithm.exe
+C:\Users\GABRIEL\Documents\Visual Studio 2013\Projects\DiskSchedulingAlgorithm\DiskSchedulingAlgorithm\obj\Debug\DiskSchedulingAlgorithm.pdb
